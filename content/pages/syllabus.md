@@ -24,44 +24,434 @@ Calendar
 
 Each student gives one or two talks on each of three papers, alternating presentations throughout the semester.
 
-| SES # | TOPICS | PRESENTERS |
-| --- | --- | --- |
-| 1 | Organization | Instructor |
-| 2 | Sample Math Talk | Instructor |
-| 3 | Math Talk | Student A |
-| 4 | Math Talk (cont.) | Student B |
-| 5 | Math Talk (cont.) | Student (Auditing) |
-| 6 | Math Talk (cont.) | Student (Auditing) (cont.) |
-| 7 | Student C | Student C |
-| 8 || {{< td-colspan 2 >}}Practice Talk Session\*{{< /td-colspan >}} ||
-| 9 | Math Talk | Student D |
-| 10 || {{< td-colspan 2 >}}Practice Talk Session{{< /td-colspan >}} ||
-| 11 | Student E | Student E |
-| 12 | Math Talk | Student (Auditing) |
-| 13 | Math Talk (cont.) | Student F |
-| 14 || {{< td-colspan 2 >}}Practice Talk Session{{< /td-colspan >}} ||
-| 15 | Math Talk | Student G |
-| 16 || {{< td-colspan 2 >}}Practice Talk Session{{< /td-colspan >}} ||
-| 17 | Math Talk | Student A |
-| 18 || {{< td-colspan 2 >}}Practice Talk Session{{< /td-colspan >}} ||
-| 19 | Math Talk | Student B |
-| 20 || {{< td-colspan 2 >}}Practice Talk Session{{< /td-colspan >}} ||
-| 21 | Math Talk | Student C |
-| 22 | Math Talk (cont.) | Student D |
-| 23 || {{< td-colspan 2 >}}Practice Talk Session{{< /td-colspan >}} ||
-| 24 | Math Talk | Student E |
-| 25 | Math Talk (cont.) | Student F |
-| 26 | Math Talk (cont.) | Student G |
-| 27 | Math Talk (cont.) | Student A |
-| 28 || {{< td-colspan 2 >}}Practice Talk Session{{< /td-colspan >}} ||
-| 29 | Math Talk | Student B |
-| 30 | Math Talk (cont.) | Student C |
-| 31 | Math Talk (cont.) | Student D |
-| 32 || {{< td-colspan 2 >}}Practice Talk Session{{< /td-colspan >}} ||
-| 33 || {{< td-colspan 2 >}}Practice Talk Session (cont.){{< /td-colspan >}} ||
-| 34 | Math Talk | Student E |
-| 35 | Math Talk (cont.) | Student F |
-| 36 || {{< td-colspan 2 >}}Practice Talk Session{{< /td-colspan >}} ||
-| 37 | Math Talk | Student G 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PRESENTERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Organization
+{{< tdclose >}}
+{{< tdopen >}}
+Instructor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Sample Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Instructor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student (Auditing)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student (Auditing) (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Student C
+{{< tdclose >}}
+{{< tdopen >}}
+Student C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student D
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Student E
+{{< tdclose >}}
+{{< tdopen >}}
+Student E
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student (Auditing)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student F
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student G
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student D
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student E
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student F
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student G
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student D
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student E
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Student F
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Practice Talk Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Math Talk
+{{< tdclose >}}
+{{< tdopen >}}
+Student G
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*About one-third of the practice talks were included in the course calendar; students scheduled the remaining two-thirds independently.

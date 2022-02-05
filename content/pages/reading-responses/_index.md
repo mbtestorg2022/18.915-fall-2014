@@ -50,9 +50,54 @@ Haynes
 
 _The complete correspondence between Professor Miller and Isabel is available in the table._
 
-| MONTHS | SAMPLE CORRESPONDENCE |
-| --- | --- |
-| September | [Sample Correspondence]({{< baseurl >}}/pages/reading-responses/september) |
-| October | [Sample Correspondence]({{< baseurl >}}/pages/reading-responses/october) |
-| November | [Sample Correspondence]({{< baseurl >}}/pages/reading-responses/november) |
-| December | [Sample Correspondence]({{< baseurl >}}/pages/reading-responses/december)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MONTHS
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE CORRESPONDENCE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+September
+{{< tdclose >}}
+{{< tdopen >}}
+[Sample Correspondence]({{< baseurl >}}/pages/reading-responses/september)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+October
+{{< tdclose >}}
+{{< tdopen >}}
+[Sample Correspondence]({{< baseurl >}}/pages/reading-responses/october)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+November
+{{< tdclose >}}
+{{< tdopen >}}
+[Sample Correspondence]({{< baseurl >}}/pages/reading-responses/november)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+December
+{{< tdclose >}}
+{{< tdopen >}}
+[Sample Correspondence]({{< baseurl >}}/pages/reading-responses/december)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
