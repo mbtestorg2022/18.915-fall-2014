@@ -15,7 +15,7 @@ Then K-theory comes along (from Atiyah's book). (Sometimes we do a proof of Bott
 
 ![Handwritten list of research papers in the field of algebraic topology.]({{< resource_file f790817d-ad7e-f5e7-6656-a611093171a0 >}})
 
-A portion of the original reading list (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_915f14_kan-list_2)), in Dan Kan's handwriting. (Image courtesy of Michael Kan.)
+A portion of the original reading list ([PDF]({{< baseurl >}}/resources/mit18_915f14_kan-list_2)), in Dan Kan's handwriting. (Image courtesy of Michael Kan.)
 
 Quillen's work on equivariant cohomology is up next. Wall's finiteness obstruction paper is very difficult for students, and may be inadvisable.
 

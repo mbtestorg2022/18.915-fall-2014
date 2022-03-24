@@ -6,7 +6,7 @@ uid: 0a06dded-81cd-9f78-9117-ddcf5a0dfeb8
 
 _This section includes links to resources about Kan Seminars taught at other institutions. If you have taught a Kan Seminar and would like to be included in this collection of resources, please [contact us](/jsp/feedback.jsp?Referer=)._
 
-Emily Riehl's online Kan [Extension Seminar (Spring 2014)](https://www.extension.harvard.edu/academics/courses/course-catalog) at Harvard University and her article ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Kan Extension Seminar: An Experimental Online Graduate Reading Course (PDF)_](http://www.ams.org/notices/201411/rnoti-p1357.pdf) in [The Notices](http://www.ams.org/notices/201504/), the American Mathematical Society magazine.
+Emily Riehl's online Kan [Extension Seminar (Spring 2014)](https://www.extension.harvard.edu/academics/courses/course-catalog) at Harvard University and her article [_The Kan Extension Seminar: An Experimental Online Graduate Reading Course (PDF)_](http://www.ams.org/notices/201411/rnoti-p1357.pdf) in [The Notices](http://www.ams.org/notices/201504/), the American Mathematical Society magazine.
 
 Christopher Douglas' [page about Kan Seminars](http://www.christopherleedouglas.com/projects/community/kan-seminars/) he's taught at Stanford University and the University of Oxford
 
