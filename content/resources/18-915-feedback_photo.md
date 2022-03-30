@@ -9,6 +9,7 @@ image_metadata:
     of the Kan Seminar.
   credit: Photo courtesy of MIT OpenCourseWare.
   image-alt: A male student writing on a blackboard with chalk.
+parent_uid: 899f2197-c7ea-c802-0575-c9260bd4088f
 resourcetype: Image
 title: 18.915-Feedback_Photo.jpg
 uid: 5e8f166f-18ea-3011-e164-a8d13ee87378

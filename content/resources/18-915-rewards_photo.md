@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Three students sitting at a table; female student looks toward speaker
     at front of room; male student leans forward, holds pen, and looks toward speaker;
     another male student looks down at paper.
+parent_uid: 52b3c476-57a9-e63d-97e9-01bd861cf4f3
 resourcetype: Image
 title: 18.915-Rewards_Photo.jpg
 uid: 4d008006-bbb0-e4e4-164f-e5203d84f7c5

@@ -9,6 +9,7 @@ image_metadata:
     Seminar.
   credit: Photo courtesy of MIT OpenCourseWare.
   image-alt: Mathematical notation written in chalk on a blackboard.
+parent_uid: 9d92aa27-87e4-b9bb-4548-23a87d5108cd
 resourcetype: Image
 title: 18.915-Logistics_Photo.jpg
 uid: 02a36811-69e1-463d-96ae-a47a480fbf11
